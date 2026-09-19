@@ -31,5 +31,43 @@ Me chamo Arthur Marchiori Reis Santos, tenho 17 anos e sou natural de Araxá-MG.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="left" alt="SQL Server" title="SQL Server" width="30px" style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <br />
 <br />
+
+---
+
+### 🚀 Meus Projetos
+
+| Projeto | Descrição | Tecnologias | Link |
+| ------- | --------- | ----------- | ---- |
+| 🛒 **MarchioriDev Store** | Vitrine de produtos interativa com carrossel dinâmico | HTML, CSS, JavaScript | [🌐 Ver site](https://arthurmarchiori.github.io/Projeto01/) · [📂 Código](https://github.com/ArthurMarchiori/Projeto01) |
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurMarchiori&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMarchiori&layout=compact&langs_count=8&theme=tokyonight" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArthurMarchiori&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+<a href="https://www.linkedin.com/in/arthur-marchiori-reis-santos-a4bb69425" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:arthurmrsantos15@gmail.com">
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
